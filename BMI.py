@@ -80,7 +80,7 @@ Generally, an increased risk of mortality compared to those with a healthy BMI
             
             """
 elif bmi<18.5:
-        st.subheader("You are overweight!")
+        st.subheader("You are underweight!")
         body_html = """
                         <style>
                             .title h1{
